@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4738019_0052.png"; bbox 0 0 1974 3038; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1647 3038">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1647 3038">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1647 3038; baseline 0 9"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1647 3038; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1914 395 1953 460">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1914 395 1953 460">
+     <span class='ocr_line' id='line_1_2' title="bbox 1914 395 1935 460; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1930 450 1935 460; x_wconf 28' lang='grc' dir='ltr'><em>,Α</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1914 395 1933 425; x_wconf 57' lang='lat'><em>*¹5⁸¹</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1942 402 1953 416; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 1942 402 1953 416; x_wconf 53' lang='lat' dir='ltr'>U</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1948 422 1955 510">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1948 422 1955 510">
+     <span class='ocr_line' id='line_1_4' title="bbox 1948 422 1955 510; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 1948 422 1955 510; x_wconf 37' lang='lat'><em>„.„.,*‚.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1938 871 1962 932">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1938 871 1962 932">
+     <span class='ocr_line' id='line_1_5' title="bbox 1938 871 1962 932; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1938 871 1962 932; x_wconf 46' lang='lat'><em>&amp;³³</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1901 1358 1909 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1901 1358 1909 1407">
+     <span class='ocr_line' id='line_1_6' title="bbox 1901 1358 1909 1407; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1901 1379 1909 1407; x_wconf 45' lang='grc' dir='ltr'><em>..ψ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1902 1358 1909 1367; x_wconf 80' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1924 1919 1953 1969">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1906 1892 1953 1969">
+     <span class='ocr_line' id='line_1_7' title="bbox 1924 1919 1953 1969; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1924 1919 1953 1969; x_wconf 37' lang='grc' dir='ltr'>ἢ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
